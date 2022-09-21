@@ -16,6 +16,9 @@ const colourOptions = [
   { label: 'orange', value: 'orange' },
   { label: 'maroon', value: 'maroon' },
   { label: 'aqua', value: 'aqua' },
+  { label: 'pink', value: 'pink' },
+  { label: 'purple', value: 'purple' },
+  { label: 'Crimson', value: 'Crimson' },
 ]
 
 const Option = (props) => {
